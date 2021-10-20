@@ -1,0 +1,45 @@
+body{
+    height: 10000px;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    
+}
+.carousel-item{
+    height: 80vh;
+    font-size: 20px;   
+}
+.navbar{
+    background:#353535;
+}
+.btn{
+    color: #C5AF82;
+}
+.btn:hover{
+    color: #C5AF82;
+  
+}
+a{
+    color: #C5AF82;
+}
+a:hover{
+    color: #C5AF82;
+}
+.btn-outline-warning{
+    border: #353535;
+}
+.btn-outline-warning:hover{
+    background: #b85353;
+    border:  #7a7469;
+}
+.btn-sm{
+    font-size: 18px;
+}
+.dropdown-menu{
+    background-color: rgb(59, 23, 23);
+}
+.btn-outline-primary:hover{
+background: #C5AF82;
+color: #000;
+}
